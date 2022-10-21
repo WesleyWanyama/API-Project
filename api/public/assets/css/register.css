@@ -1,0 +1,10 @@
+form{
+	margin-top: 30px;
+    max-width: 500px;
+    margin: 50px auto 0;
+    background: #fff;
+    padding: 4em 4em 2em;
+    border-style: inset;
+    border-color: black;
+    border-radius: 5px;
+}
